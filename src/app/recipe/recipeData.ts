@@ -6,6 +6,7 @@ export const recipeData = [
     1,
     'Ensalada César',
     2,
+    "Clásica ensalada fresca con pollo, crutones y aderezo César, ideal como almuerzo ligero.",
     [
       'Lavar y trocear la lechuga.',
       'Cocinar el pollo a la plancha y cortarlo en tiras.',
@@ -29,6 +30,7 @@ export const recipeData = [
     2,
     'Tostadas Francesas',
     2,
+    "Deliciosas tostadas francesas, perfectas para un desayuno dulce y reconfortante.",
     [
       'Batir huevos con leche y canela.',
       'Sumergir el pan en la mezcla.',
